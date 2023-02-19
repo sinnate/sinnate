@@ -1,5 +1,5 @@
 
- <img align="center" width="1024" height="300" src="2.png" />
+ <img align="center"  src="2.png" />
 
 ### Hi there 👋
 
