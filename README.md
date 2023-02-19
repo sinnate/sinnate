@@ -14,7 +14,6 @@
 <a href="https://wakatime.com/@sinnate">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@christitustech/57160975-2111-472e-bc92-f390b42053b3.svg" />
  </a>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sinnate/6cd7edae-c168-493c-a9e6-621d8a68ddc2.png" /></a>
 </p>
 
 #
