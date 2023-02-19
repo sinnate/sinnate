@@ -34,6 +34,6 @@
  
  <a href="mailto:contact@sinnate.dev">Email</a>
 
- ###⚡ Fun fact:
+ ### ⚡ Fun fact:
  Some Moroccan Book Publish uses the same ISBN/EAN in for multiple Books.
 
