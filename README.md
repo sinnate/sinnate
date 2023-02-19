@@ -23,7 +23,8 @@
 
 ### 🔭 I’m currently working on 
 
-  I'm playing around with Orange pi and stable diffusion,
+  I'm playing around with Orange pi and stable diffusion
+  
  <a href="https://github.com/sinnate/orange-pi-5-stable-diffusion-webui">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sinnate&repo=orange-pi-5-stable-diffusion-webui" />
 </a>
