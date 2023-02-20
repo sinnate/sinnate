@@ -12,7 +12,7 @@
 #
 
 <a href="https://wakatime.com/@sinnate">
- <img width="600px" height="300px" src="https://wakatime.com/share/@sinnate/74c660d5-07bc-41b9-b59a-13c70dc7f334.png" /></a>
+ <img width="600px" height="300px" src="https://wakatime.com/share/@sinnate/0d893519-9ed2-4822-9e96-da69b8433c1d.svg" /></a>
  </a>
 </p>
 
