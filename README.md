@@ -11,12 +11,6 @@
 
 #
 
-<a href="https://wakatime.com/@sinnate">
- <img width="600px" height="300px" src="https://wakatime.com/share/@sinnate/0d893519-9ed2-4822-9e96-da69b8433c1d.svg" /></a>
- </a>
-</p>
-
-#
 
 ### 🔭 I’m currently working on 
 
