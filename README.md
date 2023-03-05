@@ -1,8 +1,4 @@
 <!-- accent color  #F7C04A -->
-
-### Hi there 👋
-
-
 <p align="center">
 <br/>
 <a href="https://sinnate.dev">
