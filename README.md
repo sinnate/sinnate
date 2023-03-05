@@ -1,13 +1,23 @@
-
- <img align="center"  src="2.png" />
+<!-- accent color  #F7C04A -->
 
 ### Hi there 👋
 
 
+<p align="center">
+<br/>
+<a href="https://sinnate.dev">
+    <img src="https://img.shields.io/badge/website-sinnate.dv-%23F7C04A">
+</a>  
+<a href="https://sinnate.dev/cv_english.pdf">
+    <img src="https://img.shields.io/badge/CV-PDF%20-%23F7C04A">
+</a>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinnate&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-#
+<br/> 
 
+<img src="https://github-stats-alpha.vercel.app/api?username=sinnate&cc=000&tc=F7C04A&ic=fff&bc=F7C04A">
+</p>
+
+<img align="center"  src="2.png" />
 
 ### 🔭 I’m currently working on 
 
@@ -19,10 +29,4 @@
 
 
 
- ### 📫 How to reach me: 
- 
- <a href="mailto:contact@sinnate.dev">Email</a>
-
- ### ⚡ Fun fact:
- Some Moroccan Book Publish uses the same ISBN/EAN for multiple Books.
 
