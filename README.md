@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C04A&center=true&vCenter=true&width=435&lines=Hello+there;Welcome+to+my+github" alt="Typing SVG" />
 <br/>
 <a href="https://sinnate.dev">
-    <img src="https://img.shields.io/badge/website-sinnate.dv-%23F7C04A">
+    <img src="https://img.shields.io/badge/website-sinnate.dev-%23F7C04A">
 </a>  
 <a href="https://sinnate.dev/cv_english.pdf">
     <img src="https://img.shields.io/badge/CV-PDF%20-%23F7C04A">
