@@ -15,11 +15,11 @@
 </p>
 
 
-
+<!-- 
 ### 🔭 I’m currently working on   
  <a href="https://github.com/sinnate/orange-pi-5-stable-diffusion-webui">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sinnate&repo=orange-pi-5-stable-diffusion-webui&bg_color=000&border_color=F7C04A&icon_color=FFF&title_color=F7C04A&text_color=FFF" />
 </a>
 
-
+ -->
 
